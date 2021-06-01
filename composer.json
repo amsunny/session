@@ -1,0 +1,8 @@
+{
+    "name": "reign/session",
+    "autoload": {
+        "psr-4": {
+            "Reign\\Session\\": "src/"
+        }
+    }
+}
